@@ -1,7 +1,7 @@
 import './App.css';
 import Students from './compo/Students'
 import ContactUs from './compo/ContactUs'
-import {BrowserRouter,Routes,Route,Link} from "react-router-dom"
+import {BrowserRouter,Routes,Route,Link} from 'react-router-dom'
 import Home from './compo/Home';
 
 function App() {
