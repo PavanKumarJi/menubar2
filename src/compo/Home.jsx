@@ -16,7 +16,7 @@ const Home = () => {
     <span className="visually-hidden">Next</span>
   </button>
 </div>
-<br /><br /> ©Happy Soni
+<br /><br /> 
     </>
   )
 }
